@@ -1,0 +1,125 @@
+E = mc2, equation in German-born physicist Albert Einstein’s theory of special relativity that expresses the fact that mass and energy are the same physical entity and can be changed into each other. In the equation, the increased relativistic mass (m) of a body times the speed of light squared (c2) is equal to the kinetic energy (E) of that body.
+
+Explaining E = mc2
+Explaining E = mc2
+Brian Greene kicks off his Daily Equation video series with Albert Einstein's famous equation E = mc2.
+See all videos for this article
+In physical theories prior to that of special relativity, mass and energy were viewed as distinct entities. Furthermore, the energy of a body at rest could be assigned an arbitrary value. In special relativity, however, the energy of a body at rest is determined to be mc2. Thus, each body of rest mass m possesses mc2 of “rest energy,” which potentially is available for conversion to other forms of energy. The mass-energy relation, moreover, implies that, if energy is released from the body as a result of such a conversion, then the rest mass of the body will decrease. Such a conversion of rest energy to other forms of energy occurs in ordinary chemical reactions, but much larger conversions occur in nuclear reactions. This is particularly true in the case of nuclear fusion reactions that transform hydrogen to helium, in which 0.7 percent of the original rest energy of the hydrogen is converted to other forms of energy. Stars like the Sun shine from the energy released from the rest energy of hydrogen atoms that are fused to form helium.
+
+
+what is gravity?
+What Is Gravity?
+Gravity is the force by which a planet or other body draws objects toward its center. The force of gravity keeps all of the planets in orbit around the sun.
+What else does gravity do?
+Why do you land on the ground when you jump up instead of floating off into space? Why do things fall down when you throw them or drop them? The answer is gravity: an invisible force that pulls objects toward each other. Earth's gravity is what keeps you on the ground and what makes things fall.
+An animation of gravity at work. Albert Einstein described gravity as a curve in space that wraps around an object—such as a star or a planet. If another object is nearby, it is pulled into the curve. Image credit: NASA
+Anything that has mass also has gravity. Objects with more mass have more gravity. Gravity also gets weaker with distance. So, the closer objects are to each other, the stronger their gravitational pull is.
+Earth's gravity comes from all its mass. All its mass makes a combined gravitational pull on all the mass in your body. That's what gives you weight. And if you were on a planet with less mass than Earth, you would weigh less than you do here.
+Image credit: NASA
+You exert the same gravitational force on Earth that it does on you. But because Earth is so much more massive than you, your force doesn’t really have an effect on our planet.
+Gravity in our universe
+Gravity is what holds the planets in orbit around the sun and what keeps the moon in orbit around Earth. The gravitational pull of the moon pulls the seas towards it, causing the ocean tides. Gravity creates stars and planets by pulling together the material from which they are made.
+Gravity not only pulls on mass but also on light. Albert Einstein discovered this principle. If you shine a flashlight upwards, the light will grow imperceptibly redder as gravity pulls it. You can't see the change with your eyes, but scientists can measure it.
+Black holes pack so much mass into such a small volume that their gravity is strong enough to keep anything, even light, from escaping.
+What is a black hole?
+Watch this video to find out more about these areas of immense gravity!
+Gravity on Earth
+Gravity is very important to us. We could not live on Earth without it. The sun's gravity keeps Earth in orbit around it, keeping us at a comfortable distance to enjoy the sun's light and warmth. It holds down our atmosphere and the air we need to breathe. Gravity is what holds our world together.
+However, gravity isn’t the same everywhere on Earth. Gravity is slightly stronger over places with more mass underground than over places with less mass. NASA uses two spacecraft to measure these variations in Earth’s gravity.
+These spacecraft are part of the Gravity Recovery and Climate Experiment (GRACE) mission.
+The GRACE mission helps scientists to create maps of gravity variations on Earth. Areas in blue have slightly weaker gravity and areas in red have slightly stronger gravity. Image credit: NASA/University of Texas Center for Space Research
+GRACE detects tiny changes in gravity over time. These changes have revealed important details about our planet. For example, GRACE monitors changes in sea level and can detect changes in Earth’s crust brought on by earthquakes.
+article last updated December 17, 2020
+
+
+
+what is force?
+Aristotle famously represented a force as anything that causes an object to undergo “unnatural motion”. Sir Isaac Newton was one of the first scientists to study gravity and force. Any kind of force is just a push or a pull. It can be described as a push or pull on an object.  Push or pull of an object is considered a force. Push and pull come from the objects interacting with one another. Terms like stretch and squeeze can also be used to denote force.
+In Physics, force is defined as: The push or pull on an object with mass causes it to change its velocity. Force is an external agent capable of changing a body’s state of rest or motion. It has a magnitude and a direction. The direction towards which the force is applied is known as the direction of the force, and the application of force is the point where force is applied. The Force can be measured using a spring balance. The SI unit of force is Newton(N). In physics, motion is defined as the change in position with respect to time. In simpler words, motion refers to the movement of a body. Typically, motion can either be described as: The Force has different effects, and here are some of them.    ❮❯
+ You may also want to check out these topics given below! The quantity of force is expressed by the vector product of mass (m) and acceleration (a). The equation or the formula for force can mathematically be expressed in the form of: Where, It is articulated in Newton (N) or Kgm/s2. Acceleration a is given by a = v/t Where So Force can be articulated as: F = mv/t Inertia formula is termed as p = mv which can also be articulated as Momentum. Therefore, Force can be articulated as the rate of change of momentum. F = p/t = dp/dt Force formulas are beneficial in finding out the force, mass, acceleration, momentum, velocity in any given problem. Force is a physical cause that can change an object’s state of motion or dimensions. There are two types of forces based on their applications:  Forces that act on a body either directly or through a medium are called contact forces. Examples of contact forces are: We can use the muscular force of animals like bullocks, horses, and camels to get the activities done. The frictional force is another type of contact force, which acts between a pair of a surface in contact and tends to oppose the motion of one surface over the other.  Forces that act through spaces without making direct contact with the body are called non-contact forces. Examples of non-contact forces are: The force exerted by a magnet on other magnets is called magnetic force. Magnetic force and electrostatic force act on an object from a distance. That’s the reason they are non-contact forces. The strength of gravity is an attractive force that is exerted by the Earth on objects, which makes them fall to the land. The weight of a body is the force that is pulled by the earth towards the centre. Q.1) How much net force is required to accelerate a 1000 kg car at 4.00 m/s2? Solution: Given, Therefore,  F = ma = 1000 × 4 = 4000 N Q.2) Aimee has a toy car mass of 2 kg. How much force should she apply to the car so that it should travel with the acceleration of 8 m/s2? Solution: Known, F is Force to be applied by Aimmee = m × a = 2 Kg × 8 m/s2 = 16 Kgm/s2  = 16 N. Q.3) A hammer having a mass of 1 kg going with a speed of 6 m/s hits a wall and comes to rest in 0.1 sec. Compute the obstacle force that makes the hammer stop. Solution: Given, The acceleration is: a = (v – u)/t Therefore, a =  -60  Thus, the retarding Force, F = ma = 1 × 60 = 60 N The line along which a force acts on an object is called the force’s line of action . The point where the force is acting on an object is called the point of application of the force. The force which opposes the relative motion between the surfaces of two objects in contact and acts along the surfaces is called the force of friction. Galileo experimentally proved that objects that are in motion move with constant speed when there is no force acting on it. He could note that when a sphere rolls down an inclined plane, its speed increases because of the gravitational pull acting on it. When all the forces acting on an object are balanced, the net force acting is zero. But, if all the forces acting on a body result in an unbalanced force, then the unbalanced force can accelerate the body, which means that a net force acting on a body can either change the magnitude of its velocity or change the direction of its velocity. For example, when many forces act on a body, and the body is found to be at rest, we can conclude that the net force acting on the body is zero. Gravity is the weakest force as its coupling constant is small in value. The strongest force is the strong nuclear force which is 100 times stronger than the electromagnetic force. Basically, there are two types of forces: Some examples of force are: Stay tuned with BYJU’S to learn more interesting science topics with engaging videos! Put your understanding of this concept to test by answering a few MCQs. Click ‘Start Quiz’ to begin! Select the correct answer and click on the “Finish” buttonCheck your score and answers at the end of the quiz Congrats! Visit BYJU’S for all Physics related queries and study materials Your result is as below 
+                                                        Request OTP on
+                                                        
+
+
+
+
+Voice Call
+
+ Your Mobile number and Email id will not be published. Required fields are marked * 
+										Request OTP on
+										
+
+
+
+
+Voice Call
+
+ Website  Post My Comment 
+
+ what are all the different types of force contact and non contact force cohesive and adhesive, surface tension, magnetic, gravitational force, tension force, frictional force, centripetal force, centrifugal force, electrostatics, upthrust, electrical force and nuclear force nice examples thankyou. Great Videos Very useful I really appreciate it I could like to study with you people. Nice exemples thank you so much I like your exemples very helpful examples thank you it is very usefulll i got 100/100 in all  of my subjects after i started using byjus
+thanks Thank you Thank you so much for the content! It really helped me a lot!  Thank you so much!This is very helpful. It is very useful. I got 100/100 in all my subjects after I started using BYJU’S.
+Thanks! it really helped me in my physcis project thanks byjus very nice information It is a very excellent explanation of force.  This is very helpful It is the best app in the whole world in my view I like BYJU’S -The Learning app! Doubt Clearing sessions are excellent, and I understand all concepts with fun after seeing BYJU’S video. Thank you! Good Resource 
+
+
+
+what is force?
+Aristotle famously represented a force as anything that causes an object to undergo “unnatural motion”. Sir Isaac Newton was one of the first scientists to study gravity and force. Any kind of force is just a push or a pull. It can be described as a push or pull on an object.  Push or pull of an object is considered a force. Push and pull come from the objects interacting with one another. Terms like stretch and squeeze can also be used to denote force.
+In Physics, force is defined as: The push or pull on an object with mass causes it to change its velocity. Force is an external agent capable of changing a body’s state of rest or motion. It has a magnitude and a direction. The direction towards which the force is applied is known as the direction of the force, and the application of force is the point where force is applied. The Force can be measured using a spring balance. The SI unit of force is Newton(N). In physics, motion is defined as the change in position with respect to time. In simpler words, motion refers to the movement of a body. Typically, motion can either be described as: The Force has different effects, and here are some of them.    ❮❯
+ You may also want to check out these topics given below! The quantity of force is expressed by the vector product of mass (m) and acceleration (a). The equation or the formula for force can mathematically be expressed in the form of: Where, It is articulated in Newton (N) or Kgm/s2. Acceleration a is given by a = v/t Where So Force can be articulated as: F = mv/t Inertia formula is termed as p = mv which can also be articulated as Momentum. Therefore, Force can be articulated as the rate of change of momentum. F = p/t = dp/dt Force formulas are beneficial in finding out the force, mass, acceleration, momentum, velocity in any given problem. Force is a physical cause that can change an object’s state of motion or dimensions. There are two types of forces based on their applications:  Forces that act on a body either directly or through a medium are called contact forces. Examples of contact forces are: We can use the muscular force of animals like bullocks, horses, and camels to get the activities done. The frictional force is another type of contact force, which acts between a pair of a surface in contact and tends to oppose the motion of one surface over the other.  Forces that act through spaces without making direct contact with the body are called non-contact forces. Examples of non-contact forces are: The force exerted by a magnet on other magnets is called magnetic force. Magnetic force and electrostatic force act on an object from a distance. That’s the reason they are non-contact forces. The strength of gravity is an attractive force that is exerted by the Earth on objects, which makes them fall to the land. The weight of a body is the force that is pulled by the earth towards the centre. Q.1) How much net force is required to accelerate a 1000 kg car at 4.00 m/s2? Solution: Given, Therefore,  F = ma = 1000 × 4 = 4000 N Q.2) Aimee has a toy car mass of 2 kg. How much force should she apply to the car so that it should travel with the acceleration of 8 m/s2? Solution: Known, F is Force to be applied by Aimmee = m × a = 2 Kg × 8 m/s2 = 16 Kgm/s2  = 16 N. Q.3) A hammer having a mass of 1 kg going with a speed of 6 m/s hits a wall and comes to rest in 0.1 sec. Compute the obstacle force that makes the hammer stop. Solution: Given, The acceleration is: a = (v – u)/t Therefore, a =  -60  Thus, the retarding Force, F = ma = 1 × 60 = 60 N The line along which a force acts on an object is called the force’s line of action . The point where the force is acting on an object is called the point of application of the force. The force which opposes the relative motion between the surfaces of two objects in contact and acts along the surfaces is called the force of friction. Galileo experimentally proved that objects that are in motion move with constant speed when there is no force acting on it. He could note that when a sphere rolls down an inclined plane, its speed increases because of the gravitational pull acting on it. When all the forces acting on an object are balanced, the net force acting is zero. But, if all the forces acting on a body result in an unbalanced force, then the unbalanced force can accelerate the body, which means that a net force acting on a body can either change the magnitude of its velocity or change the direction of its velocity. For example, when many forces act on a body, and the body is found to be at rest, we can conclude that the net force acting on the body is zero. Gravity is the weakest force as its coupling constant is small in value. The strongest force is the strong nuclear force which is 100 times stronger than the electromagnetic force. Basically, there are two types of forces: Some examples of force are: Stay tuned with BYJU’S to learn more interesting science topics with engaging videos! Put your understanding of this concept to test by answering a few MCQs. Click ‘Start Quiz’ to begin! Select the correct answer and click on the “Finish” buttonCheck your score and answers at the end of the quiz Congrats! Visit BYJU’S for all Physics related queries and study materials Your result is as below 
+                                                        Request OTP on
+                                                        
+
+
+
+
+Voice Call
+
+ Your Mobile number and Email id will not be published. Required fields are marked * 
+										Request OTP on
+										
+
+
+
+
+Voice Call
+
+ Website  Post My Comment 
+
+ what are all the different types of force contact and non contact force cohesive and adhesive, surface tension, magnetic, gravitational force, tension force, frictional force, centripetal force, centrifugal force, electrostatics, upthrust, electrical force and nuclear force nice examples thankyou. Great Videos Very useful I really appreciate it I could like to study with you people. Nice exemples thank you so much I like your exemples very helpful examples thank you it is very usefulll i got 100/100 in all  of my subjects after i started using byjus
+thanks Thank you Thank you so much for the content! It really helped me a lot!  Thank you so much!This is very helpful. It is very useful. I got 100/100 in all my subjects after I started using BYJU’S.
+Thanks! it really helped me in my physcis project thanks byjus very nice information It is a very excellent explanation of force.  This is very helpful It is the best app in the whole world in my view I like BYJU’S -The Learning app! Doubt Clearing sessions are excellent, and I understand all concepts with fun after seeing BYJU’S video. Thank you! Good Resource 
+
+
+
+what is value of gravity on earth?
+The gravity of Earth, denoted by g, is the net acceleration that is imparted to objects due to the combined effect of gravitation (from mass distribution within Earth) and the centrifugal force (from the Earth's rotation).
+It is a vector quantity, whose direction coincides with a plumb bob and strength or magnitude is given by the norm 
+  
+    
+      
+        g
+        =
+        ‖
+        
+          
+            
+              g
+            
+          
+        
+        ‖
+      
+    
+    {\displaystyle g=\|{\mathit {\mathbf {g} }}\|}
+  .
+In SI units this acceleration is expressed in metres per second squared (in symbols, m/s2 or m·s−2) or equivalently in newtons per kilogram (N/kg or N·kg−1). Near Earth's surface, the acceleration due to gravity, accurate to 2 significant figures, is 9.8 m/s2 (32 ft/s2). This means that, ignoring the effects of air resistance, the speed of an object falling freely will increase by about 9.8 metres (32 ft) per second every second. This quantity is sometimes referred to informally as little g (in contrast, the gravitational constant G is referred to as big G).
+The precise strength of Earth's gravity varies with location. The agreed upon value for standard gravity is 9.80665 m/s2 (32.1740 ft/s2) by definition. This quantity is denoted variously as gn, ge (though this sometimes means the normal gravity at the equator, 9.7803267715 m/s2 (32.087686258 ft/s2)), g0, or simply g (which is also used for the variable local value).
+The weight of an object on Earth's surface is the downwards force on that object, given by Newton's second law of motion, or F = m a (force = mass × acceleration). Gravitational acceleration contributes to the total gravity acceleration, but other factors, such as the rotation of Earth, also contribute, and, therefore, affect the weight of the object. Gravity does not normally include the gravitational pull of the Moon and Sun, which are accounted for in terms of tidal effects.
+
+
+
+who is inventor of first computer?
+John Vincent Atanasoff, , (October 4, 1903 – June 15, 1995) was an American physicist and inventor credited with inventing the first electronic digital computer. Atanasoff invented the first electronic digital computer in the 1930s at Iowa State College (now known as Iowa State University). Challenges to his claim were resolved in 1973 when the Honeywell v. Sperry Rand lawsuit ruled that Atanasoff was the inventor of the computer. His special-purpose machine has come to be called the Atanasoff–Berry Computer.
+
+
+
